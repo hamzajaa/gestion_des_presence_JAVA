@@ -1,7 +1,5 @@
 package apr;
 
-import java.util.Random;
-
 public class Apr {
     public static int index = 0;
     private String ref;
